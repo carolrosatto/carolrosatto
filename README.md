@@ -9,8 +9,8 @@
 
 ### Status
 <a href="https://github.com/carolrosatto/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolrosatto&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolrosatto&layout=compact&theme=radical" />
 </a><br>
 <a href="https://github.com/carolrosatto/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolrosatto&show_icons=true&hide=commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carolrosatto&show_icons=true&hide=commits&theme=radical" />
 </a>
