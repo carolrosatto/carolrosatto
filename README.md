@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Carolina Rosatto :information_desk_person:</h1>
-<p align="center"><image src="https://media.giphy.com/media/McmEgVHMekWQ/giphy.gif"/></p>
+<p align="center"><image src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized.gif"/></p>
 <h3 align="center">System Analyst | Tech and Arts Enthusiast</h3>
 
 ### About
