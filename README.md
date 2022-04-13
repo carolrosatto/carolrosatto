@@ -21,7 +21,9 @@
 
 ### Status
 <a href="https://github.com/carolrosatto/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolrosatto&layout=compact&theme=radical" />
-</a><br> <a href="https://github.com/carolrosatto/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolrosatto&show_icons=true&hide=commits&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolrosatto&layout=compact&theme=ocean_dark" />
+</a><br>
+<a href="https://github.com/carolrosatto/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolrosatto&show_icons=true&hide=commits&theme=ocean_dark" />
 </a>
+
