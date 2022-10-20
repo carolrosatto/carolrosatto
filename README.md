@@ -3,7 +3,7 @@
 <h3 align="center">Front-end & Flutter developer | Tech and Arts Enthusiast</h3>
 
 ### Visitors
-<p align="center"><img src="https://profile-counter.glitch.me/{carolrosatto}/count.svg" alt="Carol Rosatto :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{carolrosatto}/count.svg" alt="Carol Rosatto :: Visitor's Count" /></p>
 
 ### About
 -  **Working :** System Analyst at Next :computer:
