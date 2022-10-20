@@ -2,6 +2,9 @@
 <p align="center"><image src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized.gif"/></p>
 <h3 align="center">Front-end & Flutter developer | Tech and Arts Enthusiast</h3>
 
+### Visitors
+<p align="center"><img src="https://profile-counter.glitch.me/{carolrosatto}/count.svg" alt="Carol Rosatto :: Visitor's Count" /></p>
+
 ### About
 -  **Working :** System Analyst at Next :computer:
 -  **Hobbies :** Books :books: | Games :video_game: | Drawing :pencil2:
